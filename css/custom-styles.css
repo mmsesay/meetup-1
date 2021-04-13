@@ -1,0 +1,11 @@
+/* custom font family */
+
+@font-face {
+  font-family: 'pacificoFont';
+	src: url('/fonts/Pacifico/Pacifico-Regular.ttf');
+}
+
+/* site title selector */
+.siteTitle {
+  font-family: 'pacificoFont';
+}
